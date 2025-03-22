@@ -29,6 +29,8 @@
 ## 项目结构  
 ```
 solana-web/
+├── public/                   # 静态资源文件夹
+│   └── locales/              # 国际化json文件  
 ├── src/                      # 项目源代码目录  
 │   ├── assets/               # 静态资源文件夹（如图片、SVG 等）  
 │   ├── components/           # 复用型 React 组件目录  
